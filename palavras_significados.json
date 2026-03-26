@@ -1,0 +1,2002 @@
+[
+  {
+    "palavra": "amor",
+    "significado": "emoção ou estado psicológico associado às experiências humanas"
+  },
+  {
+    "palavra": "amizade",
+    "significado": "emoção ou estado psicológico associado às experiências humanas"
+  },
+  {
+    "palavra": "alegria",
+    "significado": "emoção ou estado psicológico associado às experiências humanas"
+  },
+  {
+    "palavra": "tristeza",
+    "significado": "emoção ou estado psicológico associado às experiências humanas"
+  },
+  {
+    "palavra": "raiva",
+    "significado": "emoção ou estado psicológico associado às experiências humanas"
+  },
+  {
+    "palavra": "medo",
+    "significado": "emoção ou estado psicológico associado às experiências humanas"
+  },
+  {
+    "palavra": "coragem",
+    "significado": "emoção ou estado psicológico associado às experiências humanas"
+  },
+  {
+    "palavra": "esperança",
+    "significado": "emoção ou estado psicológico associado às experiências humanas"
+  },
+  {
+    "palavra": "ansiedade",
+    "significado": "emoção ou estado psicológico associado às experiências humanas"
+  },
+  {
+    "palavra": "calma",
+    "significado": "emoção ou estado psicológico associado às experiências humanas"
+  },
+  {
+    "palavra": "orgulho",
+    "significado": "emoção ou estado psicológico associado às experiências humanas"
+  },
+  {
+    "palavra": "vergonha",
+    "significado": "emoção ou estado psicológico associado às experiências humanas"
+  },
+  {
+    "palavra": "gratidão",
+    "significado": "emoção ou estado psicológico associado às experiências humanas"
+  },
+  {
+    "palavra": "saudade",
+    "significado": "emoção ou estado psicológico associado às experiências humanas"
+  },
+  {
+    "palavra": "entusiasmo",
+    "significado": "emoção ou estado psicológico associado às experiências humanas"
+  },
+  {
+    "palavra": "confiança",
+    "significado": "emoção ou estado psicológico associado às experiências humanas"
+  },
+  {
+    "palavra": "desespero",
+    "significado": "emoção ou estado psicológico associado às experiências humanas"
+  },
+  {
+    "palavra": "felicidade",
+    "significado": "emoção ou estado psicológico associado às experiências humanas"
+  },
+  {
+    "palavra": "solidão",
+    "significado": "emoção ou estado psicológico associado às experiências humanas"
+  },
+  {
+    "palavra": "empatia",
+    "significado": "emoção ou estado psicológico associado às experiências humanas"
+  },
+  {
+    "palavra": "árvore",
+    "significado": "elemento ou fenômeno natural presente no ambiente"
+  },
+  {
+    "palavra": "floresta",
+    "significado": "elemento ou fenômeno natural presente no ambiente"
+  },
+  {
+    "palavra": "rio",
+    "significado": "elemento ou fenômeno natural presente no ambiente"
+  },
+  {
+    "palavra": "lago",
+    "significado": "elemento ou fenômeno natural presente no ambiente"
+  },
+  {
+    "palavra": "mar",
+    "significado": "elemento ou fenômeno natural presente no ambiente"
+  },
+  {
+    "palavra": "oceano",
+    "significado": "elemento ou fenômeno natural presente no ambiente"
+  },
+  {
+    "palavra": "montanha",
+    "significado": "elemento ou fenômeno natural presente no ambiente"
+  },
+  {
+    "palavra": "vale",
+    "significado": "elemento ou fenômeno natural presente no ambiente"
+  },
+  {
+    "palavra": "ilha",
+    "significado": "elemento ou fenômeno natural presente no ambiente"
+  },
+  {
+    "palavra": "praia",
+    "significado": "elemento ou fenômeno natural presente no ambiente"
+  },
+  {
+    "palavra": "deserto",
+    "significado": "elemento ou fenômeno natural presente no ambiente"
+  },
+  {
+    "palavra": "planície",
+    "significado": "elemento ou fenômeno natural presente no ambiente"
+  },
+  {
+    "palavra": "cachoeira",
+    "significado": "elemento ou fenômeno natural presente no ambiente"
+  },
+  {
+    "palavra": "nuvem",
+    "significado": "elemento ou fenômeno natural presente no ambiente"
+  },
+  {
+    "palavra": "chuva",
+    "significado": "elemento ou fenômeno natural presente no ambiente"
+  },
+  {
+    "palavra": "vento",
+    "significado": "elemento ou fenômeno natural presente no ambiente"
+  },
+  {
+    "palavra": "tempestade",
+    "significado": "elemento ou fenômeno natural presente no ambiente"
+  },
+  {
+    "palavra": "relâmpago",
+    "significado": "elemento ou fenômeno natural presente no ambiente"
+  },
+  {
+    "palavra": "neve",
+    "significado": "elemento ou fenômeno natural presente no ambiente"
+  },
+  {
+    "palavra": "geada",
+    "significado": "elemento ou fenômeno natural presente no ambiente"
+  },
+  {
+    "palavra": "cachorro",
+    "significado": "animal pertencente ao reino animal"
+  },
+  {
+    "palavra": "gato",
+    "significado": "animal pertencente ao reino animal"
+  },
+  {
+    "palavra": "cavalo",
+    "significado": "animal pertencente ao reino animal"
+  },
+  {
+    "palavra": "vaca",
+    "significado": "animal pertencente ao reino animal"
+  },
+  {
+    "palavra": "boi",
+    "significado": "animal pertencente ao reino animal"
+  },
+  {
+    "palavra": "ovelha",
+    "significado": "animal pertencente ao reino animal"
+  },
+  {
+    "palavra": "cabra",
+    "significado": "animal pertencente ao reino animal"
+  },
+  {
+    "palavra": "porco",
+    "significado": "animal pertencente ao reino animal"
+  },
+  {
+    "palavra": "galinha",
+    "significado": "animal pertencente ao reino animal"
+  },
+  {
+    "palavra": "pato",
+    "significado": "animal pertencente ao reino animal"
+  },
+  {
+    "palavra": "ganso",
+    "significado": "animal pertencente ao reino animal"
+  },
+  {
+    "palavra": "peru",
+    "significado": "animal pertencente ao reino animal"
+  },
+  {
+    "palavra": "leão",
+    "significado": "animal pertencente ao reino animal"
+  },
+  {
+    "palavra": "tigre",
+    "significado": "animal pertencente ao reino animal"
+  },
+  {
+    "palavra": "elefante",
+    "significado": "animal pertencente ao reino animal"
+  },
+  {
+    "palavra": "girafa",
+    "significado": "animal pertencente ao reino animal"
+  },
+  {
+    "palavra": "zebra",
+    "significado": "animal pertencente ao reino animal"
+  },
+  {
+    "palavra": "urso",
+    "significado": "animal pertencente ao reino animal"
+  },
+  {
+    "palavra": "lobo",
+    "significado": "animal pertencente ao reino animal"
+  },
+  {
+    "palavra": "raposa",
+    "significado": "animal pertencente ao reino animal"
+  },
+  {
+    "palavra": "coelho",
+    "significado": "animal pertencente ao reino animal"
+  },
+  {
+    "palavra": "rato",
+    "significado": "animal pertencente ao reino animal"
+  },
+  {
+    "palavra": "camundongo",
+    "significado": "animal pertencente ao reino animal"
+  },
+  {
+    "palavra": "morcego",
+    "significado": "animal pertencente ao reino animal"
+  },
+  {
+    "palavra": "golfinho",
+    "significado": "animal pertencente ao reino animal"
+  },
+  {
+    "palavra": "baleia",
+    "significado": "animal pertencente ao reino animal"
+  },
+  {
+    "palavra": "tubarão",
+    "significado": "animal pertencente ao reino animal"
+  },
+  {
+    "palavra": "polvo",
+    "significado": "animal pertencente ao reino animal"
+  },
+  {
+    "palavra": "lula",
+    "significado": "animal pertencente ao reino animal"
+  },
+  {
+    "palavra": "caranguejo",
+    "significado": "animal pertencente ao reino animal"
+  },
+  {
+    "palavra": "formiga",
+    "significado": "animal pertencente ao reino animal"
+  },
+  {
+    "palavra": "abelha",
+    "significado": "animal pertencente ao reino animal"
+  },
+  {
+    "palavra": "borboleta",
+    "significado": "animal pertencente ao reino animal"
+  },
+  {
+    "palavra": "aranha",
+    "significado": "animal pertencente ao reino animal"
+  },
+  {
+    "palavra": "escorpião",
+    "significado": "animal pertencente ao reino animal"
+  },
+  {
+    "palavra": "lagarto",
+    "significado": "animal pertencente ao reino animal"
+  },
+  {
+    "palavra": "jacaré",
+    "significado": "animal pertencente ao reino animal"
+  },
+  {
+    "palavra": "crocodilo",
+    "significado": "animal pertencente ao reino animal"
+  },
+  {
+    "palavra": "tartaruga",
+    "significado": "animal pertencente ao reino animal"
+  },
+  {
+    "palavra": "pinguim",
+    "significado": "animal pertencente ao reino animal"
+  },
+  {
+    "palavra": "arroz",
+    "significado": "alimento consumido por pessoas como fonte de nutrição"
+  },
+  {
+    "palavra": "feijão",
+    "significado": "alimento consumido por pessoas como fonte de nutrição"
+  },
+  {
+    "palavra": "macarrão",
+    "significado": "alimento consumido por pessoas como fonte de nutrição"
+  },
+  {
+    "palavra": "pão",
+    "significado": "alimento consumido por pessoas como fonte de nutrição"
+  },
+  {
+    "palavra": "queijo",
+    "significado": "alimento consumido por pessoas como fonte de nutrição"
+  },
+  {
+    "palavra": "leite",
+    "significado": "alimento consumido por pessoas como fonte de nutrição"
+  },
+  {
+    "palavra": "manteiga",
+    "significado": "alimento consumido por pessoas como fonte de nutrição"
+  },
+  {
+    "palavra": "carne",
+    "significado": "alimento consumido por pessoas como fonte de nutrição"
+  },
+  {
+    "palavra": "frango",
+    "significado": "alimento consumido por pessoas como fonte de nutrição"
+  },
+  {
+    "palavra": "peixe",
+    "significado": "alimento consumido por pessoas como fonte de nutrição"
+  },
+  {
+    "palavra": "ovo",
+    "significado": "alimento consumido por pessoas como fonte de nutrição"
+  },
+  {
+    "palavra": "batata",
+    "significado": "alimento consumido por pessoas como fonte de nutrição"
+  },
+  {
+    "palavra": "cenoura",
+    "significado": "alimento consumido por pessoas como fonte de nutrição"
+  },
+  {
+    "palavra": "tomate",
+    "significado": "alimento consumido por pessoas como fonte de nutrição"
+  },
+  {
+    "palavra": "alface",
+    "significado": "alimento consumido por pessoas como fonte de nutrição"
+  },
+  {
+    "palavra": "cebola",
+    "significado": "alimento consumido por pessoas como fonte de nutrição"
+  },
+  {
+    "palavra": "alho",
+    "significado": "alimento consumido por pessoas como fonte de nutrição"
+  },
+  {
+    "palavra": "milho",
+    "significado": "alimento consumido por pessoas como fonte de nutrição"
+  },
+  {
+    "palavra": "ervilha",
+    "significado": "alimento consumido por pessoas como fonte de nutrição"
+  },
+  {
+    "palavra": "lentilha",
+    "significado": "alimento consumido por pessoas como fonte de nutrição"
+  },
+  {
+    "palavra": "maçã",
+    "significado": "alimento consumido por pessoas como fonte de nutrição"
+  },
+  {
+    "palavra": "banana",
+    "significado": "alimento consumido por pessoas como fonte de nutrição"
+  },
+  {
+    "palavra": "laranja",
+    "significado": "alimento consumido por pessoas como fonte de nutrição"
+  },
+  {
+    "palavra": "uva",
+    "significado": "alimento consumido por pessoas como fonte de nutrição"
+  },
+  {
+    "palavra": "manga",
+    "significado": "alimento consumido por pessoas como fonte de nutrição"
+  },
+  {
+    "palavra": "abacaxi",
+    "significado": "alimento consumido por pessoas como fonte de nutrição"
+  },
+  {
+    "palavra": "melancia",
+    "significado": "alimento consumido por pessoas como fonte de nutrição"
+  },
+  {
+    "palavra": "melão",
+    "significado": "alimento consumido por pessoas como fonte de nutrição"
+  },
+  {
+    "palavra": "morango",
+    "significado": "alimento consumido por pessoas como fonte de nutrição"
+  },
+  {
+    "palavra": "pêssego",
+    "significado": "alimento consumido por pessoas como fonte de nutrição"
+  },
+  {
+    "palavra": "mesa",
+    "significado": "objeto utilizado no cotidiano das pessoas"
+  },
+  {
+    "palavra": "cadeira",
+    "significado": "objeto utilizado no cotidiano das pessoas"
+  },
+  {
+    "palavra": "sofá",
+    "significado": "objeto utilizado no cotidiano das pessoas"
+  },
+  {
+    "palavra": "cama",
+    "significado": "objeto utilizado no cotidiano das pessoas"
+  },
+  {
+    "palavra": "armário",
+    "significado": "objeto utilizado no cotidiano das pessoas"
+  },
+  {
+    "palavra": "estante",
+    "significado": "objeto utilizado no cotidiano das pessoas"
+  },
+  {
+    "palavra": "geladeira",
+    "significado": "objeto utilizado no cotidiano das pessoas"
+  },
+  {
+    "palavra": "fogão",
+    "significado": "objeto utilizado no cotidiano das pessoas"
+  },
+  {
+    "palavra": "televisão",
+    "significado": "objeto utilizado no cotidiano das pessoas"
+  },
+  {
+    "palavra": "computador",
+    "significado": "objeto utilizado no cotidiano das pessoas"
+  },
+  {
+    "palavra": "teclado",
+    "significado": "objeto utilizado no cotidiano das pessoas"
+  },
+  {
+    "palavra": "mouse",
+    "significado": "objeto utilizado no cotidiano das pessoas"
+  },
+  {
+    "palavra": "telefone",
+    "significado": "objeto utilizado no cotidiano das pessoas"
+  },
+  {
+    "palavra": "celular",
+    "significado": "objeto utilizado no cotidiano das pessoas"
+  },
+  {
+    "palavra": "relógio",
+    "significado": "objeto utilizado no cotidiano das pessoas"
+  },
+  {
+    "palavra": "lâmpada",
+    "significado": "objeto utilizado no cotidiano das pessoas"
+  },
+  {
+    "palavra": "espelho",
+    "significado": "objeto utilizado no cotidiano das pessoas"
+  },
+  {
+    "palavra": "janela",
+    "significado": "objeto utilizado no cotidiano das pessoas"
+  },
+  {
+    "palavra": "porta",
+    "significado": "objeto utilizado no cotidiano das pessoas"
+  },
+  {
+    "palavra": "chave",
+    "significado": "objeto utilizado no cotidiano das pessoas"
+  },
+  {
+    "palavra": "caneta",
+    "significado": "objeto utilizado no cotidiano das pessoas"
+  },
+  {
+    "palavra": "lápis",
+    "significado": "objeto utilizado no cotidiano das pessoas"
+  },
+  {
+    "palavra": "caderno",
+    "significado": "objeto utilizado no cotidiano das pessoas"
+  },
+  {
+    "palavra": "livro",
+    "significado": "objeto utilizado no cotidiano das pessoas"
+  },
+  {
+    "palavra": "mochila",
+    "significado": "objeto utilizado no cotidiano das pessoas"
+  },
+  {
+    "palavra": "bolsa",
+    "significado": "objeto utilizado no cotidiano das pessoas"
+  },
+  {
+    "palavra": "garrafa",
+    "significado": "objeto utilizado no cotidiano das pessoas"
+  },
+  {
+    "palavra": "copo",
+    "significado": "objeto utilizado no cotidiano das pessoas"
+  },
+  {
+    "palavra": "prato",
+    "significado": "objeto utilizado no cotidiano das pessoas"
+  },
+  {
+    "palavra": "talher",
+    "significado": "objeto utilizado no cotidiano das pessoas"
+  },
+  {
+    "palavra": "professor",
+    "significado": "profissão ou ocupação exercida por uma pessoa"
+  },
+  {
+    "palavra": "médico",
+    "significado": "profissão ou ocupação exercida por uma pessoa"
+  },
+  {
+    "palavra": "enfermeiro",
+    "significado": "profissão ou ocupação exercida por uma pessoa"
+  },
+  {
+    "palavra": "engenheiro",
+    "significado": "profissão ou ocupação exercida por uma pessoa"
+  },
+  {
+    "palavra": "arquiteto",
+    "significado": "profissão ou ocupação exercida por uma pessoa"
+  },
+  {
+    "palavra": "advogado",
+    "significado": "profissão ou ocupação exercida por uma pessoa"
+  },
+  {
+    "palavra": "juiz",
+    "significado": "profissão ou ocupação exercida por uma pessoa"
+  },
+  {
+    "palavra": "policial",
+    "significado": "profissão ou ocupação exercida por uma pessoa"
+  },
+  {
+    "palavra": "bombeiro",
+    "significado": "profissão ou ocupação exercida por uma pessoa"
+  },
+  {
+    "palavra": "motorista",
+    "significado": "profissão ou ocupação exercida por uma pessoa"
+  },
+  {
+    "palavra": "piloto",
+    "significado": "profissão ou ocupação exercida por uma pessoa"
+  },
+  {
+    "palavra": "cientista",
+    "significado": "profissão ou ocupação exercida por uma pessoa"
+  },
+  {
+    "palavra": "programador",
+    "significado": "profissão ou ocupação exercida por uma pessoa"
+  },
+  {
+    "palavra": "designer",
+    "significado": "profissão ou ocupação exercida por uma pessoa"
+  },
+  {
+    "palavra": "jornalista",
+    "significado": "profissão ou ocupação exercida por uma pessoa"
+  },
+  {
+    "palavra": "fotógrafo",
+    "significado": "profissão ou ocupação exercida por uma pessoa"
+  },
+  {
+    "palavra": "músico",
+    "significado": "profissão ou ocupação exercida por uma pessoa"
+  },
+  {
+    "palavra": "ator",
+    "significado": "profissão ou ocupação exercida por uma pessoa"
+  },
+  {
+    "palavra": "pintor",
+    "significado": "profissão ou ocupação exercida por uma pessoa"
+  },
+  {
+    "palavra": "escritor",
+    "significado": "profissão ou ocupação exercida por uma pessoa"
+  },
+  {
+    "palavra": "tempo",
+    "significado": "conceito utilizado para descrever características do mundo físico ou abstrato"
+  },
+  {
+    "palavra": "espaço",
+    "significado": "conceito utilizado para descrever características do mundo físico ou abstrato"
+  },
+  {
+    "palavra": "energia",
+    "significado": "conceito utilizado para descrever características do mundo físico ou abstrato"
+  },
+  {
+    "palavra": "matéria",
+    "significado": "conceito utilizado para descrever características do mundo físico ou abstrato"
+  },
+  {
+    "palavra": "força",
+    "significado": "conceito utilizado para descrever características do mundo físico ou abstrato"
+  },
+  {
+    "palavra": "movimento",
+    "significado": "conceito utilizado para descrever características do mundo físico ou abstrato"
+  },
+  {
+    "palavra": "velocidade",
+    "significado": "conceito utilizado para descrever características do mundo físico ou abstrato"
+  },
+  {
+    "palavra": "distância",
+    "significado": "conceito utilizado para descrever características do mundo físico ou abstrato"
+  },
+  {
+    "palavra": "altura",
+    "significado": "conceito utilizado para descrever características do mundo físico ou abstrato"
+  },
+  {
+    "palavra": "peso",
+    "significado": "conceito utilizado para descrever características do mundo físico ou abstrato"
+  },
+  {
+    "palavra": "volume",
+    "significado": "conceito utilizado para descrever características do mundo físico ou abstrato"
+  },
+  {
+    "palavra": "temperatura",
+    "significado": "conceito utilizado para descrever características do mundo físico ou abstrato"
+  },
+  {
+    "palavra": "luz",
+    "significado": "conceito utilizado para descrever características do mundo físico ou abstrato"
+  },
+  {
+    "palavra": "som",
+    "significado": "conceito utilizado para descrever características do mundo físico ou abstrato"
+  },
+  {
+    "palavra": "cor",
+    "significado": "conceito utilizado para descrever características do mundo físico ou abstrato"
+  },
+  {
+    "palavra": "forma",
+    "significado": "conceito utilizado para descrever características do mundo físico ou abstrato"
+  },
+  {
+    "palavra": "tamanho",
+    "significado": "conceito utilizado para descrever características do mundo físico ou abstrato"
+  },
+  {
+    "palavra": "valor",
+    "significado": "conceito utilizado para descrever características do mundo físico ou abstrato"
+  },
+  {
+    "palavra": "preço",
+    "significado": "conceito utilizado para descrever características do mundo físico ou abstrato"
+  },
+  {
+    "palavra": "custo",
+    "significado": "conceito utilizado para descrever características do mundo físico ou abstrato"
+  },
+  {
+    "palavra": "escola",
+    "significado": "termo relacionado ao conhecimento, ensino ou produção intelectual"
+  },
+  {
+    "palavra": "universidade",
+    "significado": "termo relacionado ao conhecimento, ensino ou produção intelectual"
+  },
+  {
+    "palavra": "aula",
+    "significado": "termo relacionado ao conhecimento, ensino ou produção intelectual"
+  },
+  {
+    "palavra": "professor",
+    "significado": "termo relacionado ao conhecimento, ensino ou produção intelectual"
+  },
+  {
+    "palavra": "aluno",
+    "significado": "termo relacionado ao conhecimento, ensino ou produção intelectual"
+  },
+  {
+    "palavra": "estudo",
+    "significado": "termo relacionado ao conhecimento, ensino ou produção intelectual"
+  },
+  {
+    "palavra": "pesquisa",
+    "significado": "termo relacionado ao conhecimento, ensino ou produção intelectual"
+  },
+  {
+    "palavra": "ciência",
+    "significado": "termo relacionado ao conhecimento, ensino ou produção intelectual"
+  },
+  {
+    "palavra": "história",
+    "significado": "termo relacionado ao conhecimento, ensino ou produção intelectual"
+  },
+  {
+    "palavra": "geografia",
+    "significado": "termo relacionado ao conhecimento, ensino ou produção intelectual"
+  },
+  {
+    "palavra": "matemática",
+    "significado": "termo relacionado ao conhecimento, ensino ou produção intelectual"
+  },
+  {
+    "palavra": "biologia",
+    "significado": "termo relacionado ao conhecimento, ensino ou produção intelectual"
+  },
+  {
+    "palavra": "química",
+    "significado": "termo relacionado ao conhecimento, ensino ou produção intelectual"
+  },
+  {
+    "palavra": "física",
+    "significado": "termo relacionado ao conhecimento, ensino ou produção intelectual"
+  },
+  {
+    "palavra": "filosofia",
+    "significado": "termo relacionado ao conhecimento, ensino ou produção intelectual"
+  },
+  {
+    "palavra": "sociologia",
+    "significado": "termo relacionado ao conhecimento, ensino ou produção intelectual"
+  },
+  {
+    "palavra": "literatura",
+    "significado": "termo relacionado ao conhecimento, ensino ou produção intelectual"
+  },
+  {
+    "palavra": "arte",
+    "significado": "termo relacionado ao conhecimento, ensino ou produção intelectual"
+  },
+  {
+    "palavra": "música",
+    "significado": "termo relacionado ao conhecimento, ensino ou produção intelectual"
+  },
+  {
+    "palavra": "tecnologia",
+    "significado": "termo relacionado ao conhecimento, ensino ou produção intelectual"
+  },
+  {
+    "palavra": "internet",
+    "significado": "termo relacionado à computação ou tecnologia da informação"
+  },
+  {
+    "palavra": "software",
+    "significado": "termo relacionado à computação ou tecnologia da informação"
+  },
+  {
+    "palavra": "hardware",
+    "significado": "termo relacionado à computação ou tecnologia da informação"
+  },
+  {
+    "palavra": "algoritmo",
+    "significado": "termo relacionado à computação ou tecnologia da informação"
+  },
+  {
+    "palavra": "programa",
+    "significado": "termo relacionado à computação ou tecnologia da informação"
+  },
+  {
+    "palavra": "código",
+    "significado": "termo relacionado à computação ou tecnologia da informação"
+  },
+  {
+    "palavra": "servidor",
+    "significado": "termo relacionado à computação ou tecnologia da informação"
+  },
+  {
+    "palavra": "rede",
+    "significado": "termo relacionado à computação ou tecnologia da informação"
+  },
+  {
+    "palavra": "banco",
+    "significado": "termo relacionado à computação ou tecnologia da informação"
+  },
+  {
+    "palavra": "dados",
+    "significado": "termo relacionado à computação ou tecnologia da informação"
+  },
+  {
+    "palavra": "aplicativo",
+    "significado": "termo relacionado à computação ou tecnologia da informação"
+  },
+  {
+    "palavra": "sistema",
+    "significado": "termo relacionado à computação ou tecnologia da informação"
+  },
+  {
+    "palavra": "interface",
+    "significado": "termo relacionado à computação ou tecnologia da informação"
+  },
+  {
+    "palavra": "arquivo",
+    "significado": "termo relacionado à computação ou tecnologia da informação"
+  },
+  {
+    "palavra": "pasta",
+    "significado": "termo relacionado à computação ou tecnologia da informação"
+  },
+  {
+    "palavra": "memória",
+    "significado": "termo relacionado à computação ou tecnologia da informação"
+  },
+  {
+    "palavra": "processador",
+    "significado": "termo relacionado à computação ou tecnologia da informação"
+  },
+  {
+    "palavra": "navegador",
+    "significado": "termo relacionado à computação ou tecnologia da informação"
+  },
+  {
+    "palavra": "plataforma",
+    "significado": "termo relacionado à computação ou tecnologia da informação"
+  },
+  {
+    "palavra": "segurança",
+    "significado": "termo relacionado à computação ou tecnologia da informação"
+  },
+  {
+    "palavra": "cidade",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "bairro",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "rua",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "avenida",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "praça",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "parque",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "ponte",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "estrada",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "rodovia",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "aeroporto",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "porto",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "estação",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "mercado",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "loja",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "restaurante",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "hotel",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "hospital",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "farmácia",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "padaria",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "supermercado",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "igreja",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "templo",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "teatro",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "cinema",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "museu",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "biblioteca",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "estádio",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "ginásio",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "academia",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "piscina",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "família",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "pai",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "mãe",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "filho",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "filha",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "irmão",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "irmã",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "avô",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "avó",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "primo",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "casamento",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "aniversário",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "festa",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "viagem",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "trabalho",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "emprego",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "carreira",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "salário",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "empresa",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "negócio",
+    "significado": "termo comum da língua portuguesa usado no cotidiano"
+  },
+  {
+    "palavra": "justiça",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "liberdade",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "igualdade",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "respeito",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "dignidade",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "honra",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "ética",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "moral",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "verdade",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "mentira",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "sonho",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "objetivo",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "plano",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "ideia",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "projeto",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "decisão",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "escolha",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "mudança",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "desafio",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "resultado",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "vitória",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "derrota",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "sucesso",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "fracasso",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "aprendizado",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "experiência",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "memória",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "lembrança",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "imaginação",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "criatividade",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "justiça",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "liberdade",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "igualdade",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "respeito",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "dignidade",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "honra",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "ética",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "moral",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "verdade",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "mentira",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "sonho",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "objetivo",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "plano",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "ideia",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "projeto",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "decisão",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "escolha",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "mudança",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "desafio",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "resultado",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "vitória",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "derrota",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "sucesso",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "fracasso",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "aprendizado",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "experiência",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "memória",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "lembrança",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "imaginação",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "criatividade",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "justiça",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "liberdade",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "igualdade",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "respeito",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "dignidade",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "honra",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "ética",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "moral",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "verdade",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "mentira",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "sonho",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "objetivo",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "plano",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "ideia",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "projeto",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "decisão",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "escolha",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "mudança",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "desafio",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "resultado",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "vitória",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "derrota",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "sucesso",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "fracasso",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "aprendizado",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "experiência",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "memória",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "lembrança",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "imaginação",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "criatividade",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "justiça",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "liberdade",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "igualdade",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "respeito",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "dignidade",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "honra",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "ética",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "moral",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "verdade",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "mentira",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "sonho",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "objetivo",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "plano",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "ideia",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "projeto",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "decisão",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "escolha",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "mudança",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "desafio",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "resultado",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "vitória",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "derrota",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "sucesso",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "fracasso",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "aprendizado",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "experiência",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "memória",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "lembrança",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "imaginação",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "criatividade",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "justiça",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "liberdade",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "igualdade",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "respeito",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "dignidade",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "honra",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "ética",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "moral",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "verdade",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "mentira",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "sonho",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "objetivo",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "plano",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "ideia",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "projeto",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "decisão",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "escolha",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "mudança",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "desafio",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "resultado",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "vitória",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "derrota",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "sucesso",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "fracasso",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "aprendizado",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "experiência",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "memória",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "lembrança",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "imaginação",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "criatividade",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "justiça",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "liberdade",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "igualdade",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "respeito",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "dignidade",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "honra",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "ética",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "moral",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "verdade",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "mentira",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "sonho",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "objetivo",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "plano",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "ideia",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "projeto",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "decisão",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "escolha",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "mudança",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "desafio",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "resultado",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "vitória",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "derrota",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "sucesso",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "fracasso",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "aprendizado",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "experiência",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "memória",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "lembrança",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "imaginação",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "criatividade",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "justiça",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "liberdade",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "igualdade",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "respeito",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "dignidade",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "honra",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "ética",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "moral",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "verdade",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "mentira",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "sonho",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "objetivo",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "plano",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "ideia",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "projeto",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "decisão",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "escolha",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "mudança",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "desafio",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "resultado",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "vitória",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "derrota",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "sucesso",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "fracasso",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "aprendizado",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "experiência",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "memória",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "lembrança",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "imaginação",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "criatividade",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "justiça",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "liberdade",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "igualdade",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "respeito",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "dignidade",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "honra",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "ética",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "moral",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "verdade",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "mentira",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "sonho",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "objetivo",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "plano",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "ideia",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "projeto",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "decisão",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "escolha",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "mudança",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "desafio",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  },
+  {
+    "palavra": "resultado",
+    "significado": "conceito abstrato relacionado à experiência humana"
+  }
+]

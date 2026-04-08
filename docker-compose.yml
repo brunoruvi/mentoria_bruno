@@ -1,0 +1,42 @@
+version: "3.8"
+
+services:
+  mysql:
+    image: mysql:8.0
+    container_name: mentoria_mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: root123
+      MYSQL_DATABASE: mentoria_db
+      MYSQL_USER: mentoria_user
+      MYSQL_PASSWORD: mentoria_pass
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+    networks:
+      - mentoria_network
+
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin:latest
+    container_name: mentoria_phpmyadmin
+    restart: always
+    environment:
+      PMA_HOST: mysql
+      PMA_PORT: 3306
+      PMA_USER: root
+      PMA_PASSWORD: root123
+    ports:
+      - "8080:80"
+    depends_on:
+      - mysql
+    networks:
+      - mentoria_network
+
+volumes:
+  mysql_data:
+
+networks:
+  mentoria_network:
+    driver: bridge

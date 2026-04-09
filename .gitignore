@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 node_modules/*
-=======
 #dependências
-node_modules/
->>>>>>> main
+
+arquivos/**

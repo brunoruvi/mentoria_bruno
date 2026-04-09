@@ -1,5 +1,4 @@
-import chalk from "chalk"
-console.log(chalk.blue('Calculadora'))
+console.log('Calculadora')
 
 function soma(numeros) {
     let total = 0
@@ -85,7 +84,7 @@ let resultado
 })
 
 const result = exec()
-console.log(chalk.yellow('Argumentos: ' + (numeros)));
+console.log('Argumentos: ' + (numeros));
 console.log('Operação: ' + result[0]);
 console.log('Resultado: ' + result[1]);
-// console.log(chalk.green('Resultado: ' + calcula(operador)));
+// console.log('Resultado: ' + calcula(operador));

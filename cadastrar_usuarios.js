@@ -32,7 +32,7 @@ fs.readFile('./arquivos/usuarios.txt', 'utf8', (err, data) => {
   }
 });
 
-const dados = leOsDadosDoCsv('arquivos/usuarios.txt')
+// const dados = leOsDadosDoCsv('arquivos/usuarios.txt')
 
 
 

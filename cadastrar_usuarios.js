@@ -2,35 +2,40 @@
 // Pra cada linha do arquivo, criar um objeto com as informações do usuário
 // Salvar no banco de dados
 
+const mysql = require('mysql2');
 
-const fs = require('node:fs');
-fs.readFile('./arquivos/usuarios.txt', 'utf8', (err, data) => {
-  if (err) {
-    console.error(err);
-    return;
-  }
-  console.log(data);
-  const linhas = data.split('\n')
-  console.log(linhas.length)
-  let header
-  const PRIMEIRA_LINHA_ARQUIVO = 0
-  for (let i = 0; i < linhas.length; i++) {
-    const colunas = linhas[i].split(';')
-    
-    if (i === PRIMEIRA_LINHA_ARQUIVO) {
-        header = colunas
-        console.log('é um header')
-        console.log(header)
-        continue
-    }
-
-    for (let j = 0; j < colunas.length; j++) {
-        console.log(`${header[j]}: ${colunas[j]}`)
-    }
-
-    console.log('\n')
-  }
+const connection = mysql.createConnection({
+  host: 'localhost',
+  user: 'root',
+  database: 'mentoria_db',
+  password: 'root123'
 });
+
+const csvFilePath='C:\\Users\\bruno\\Documents\\dev\\mentoria_bruno\\arquivos\\usuarios.txt'
+const csv=require('csvtojson')
+csv()
+.fromFile(csvFilePath)
+.then((jsonObj)=>{
+  const values = jsonObj.map((item) => [
+  item.first_name, 
+  item.last_name, 
+  item.age, 
+  item.gender
+]);
+  console.log(jsonObj);
+	console.log(values);
+  connection.query(
+  'INSERT INTO Users (first_name, last_name, age, gender) VALUES ?',
+  [values],
+  function (err, results, fields) {
+    console.log(err);
+    console.log(results);
+    console.log(fields);
+  }
+);
+})
+
+
 
 // const dados = leOsDadosDoCsv('arquivos/usuarios.txt')
 

@@ -9,7 +9,8 @@ const PORT = process.env.PORT || 3000;
 app.use(express.json());
 
 // Routes
-app.use('/api', productRoutes);
+//app.use('/api', productRoutes);
+app.get('/api/products', productRoutes.getProducts);
 
 // Health check
 app.get('/health', (req, res) => {

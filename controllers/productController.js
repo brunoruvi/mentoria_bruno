@@ -17,7 +17,7 @@ class ProductController {
   // GET product by ID
   static getProductById(req, res) {
     const { id } = req.params;
-    const query = 'SELECT * FROM products WHERE id = ?';
+    const query = 'SELECT * FROM Products WHERE id = ?';
     
     connection.query(query, [id], (err, results) => {
       if (err) {
@@ -42,7 +42,7 @@ class ProductController {
       return res.status(400).json({ error: 'Nome e preço são obrigatórios' });
     }
     
-    const query = 'INSERT INTO products (name, description, price, quantity) VALUES (?, ?, ?, ?)';
+    const query = 'INSERT INTO Products (name, description, price, quantity) VALUES (?, ?, ?, ?)';
     
     connection.query(query, [name, description, price, quantity || 0], (err, result) => {
       if (err) {
@@ -69,7 +69,7 @@ class ProductController {
       return res.status(400).json({ error: 'Nome e preço são obrigatórios' });
     }
     
-    const query = 'UPDATE products SET name = ?, description = ?, price = ?, quantity = ? WHERE id = ?';
+    const query = 'UPDATE Products SET name = ?, description = ?, price = ?, quantity = ? WHERE id = ?';
     
     connection.query(query, [name, description, price, quantity || 0, id], (err, result) => {
       if (err) {
@@ -94,7 +94,7 @@ class ProductController {
   // DELETE product
   static deleteProduct(req, res) {
     const { id } = req.params;
-    const query = 'DELETE FROM products WHERE id = ?';
+    const query = 'DELETE FROM Products WHERE id = ?';
     
     connection.query(query, [id], (err, result) => {
       if (err) {

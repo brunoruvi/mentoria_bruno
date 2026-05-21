@@ -3,7 +3,7 @@ const connection = require('../db');
 class ProductController {
   // GET all products
   static getAllProducts(req, res) {
-    const query = 'SELECT * FROM products';
+    const query = 'SELECT SLEEP(0.1), p.* FROM products p';
     
     connection.query(query, (err, results) => {
       if (err) {

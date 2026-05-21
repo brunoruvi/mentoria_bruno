@@ -9,12 +9,13 @@ const PORT = process.env.PORT || 3000;
 app.use(express.json());
 
 // Routes
-//app.use('/api', productRoutes);
-app.get('/api/products', productRoutes.getProducts);
+app.use('/api', productRoutes);
 
-// Health check
 app.get('/health', (req, res) => {
-  res.json({ status: 'Server is running!' });
+  res.json({ 
+    status: 'ok', 
+    hostname: require('os').hostname() // ID do container
+  });
 });
 
 // Start server

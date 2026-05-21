@@ -14,7 +14,39 @@ services:
       - "3306:3306"
     volumes:
       - mysql_data:/var/lib/mysql
-      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+      - ./init.sql:/docker-entrypoint-initdb.d/
+    networks:
+      - mentoria_network
+
+  app:
+    build: .
+    restart: always
+    command: nodemon server.js
+    volumes:
+      - .:/app
+      - /app/node_modules
+    environment:
+      DB_HOST: mysql
+      DB_PORT: 3306
+      DB_USER: mentoria_user
+      DB_PASSWORD: mentoria_pass
+      DB_NAME: mentoria_db
+      PORT: 3000
+    depends_on:
+      - mysql
+    networks:
+      - mentoria_network
+
+  nginx:
+    image: nginx:alpine
+    container_name: mentoria_nginx
+    restart: always
+    ports:
+      - "3000:80"
+    volumes:
+      - ./nginx.conf:/etc/nginx/conf.d/default.conf
+    depends_on:
+      - app
     networks:
       - mentoria_network
 

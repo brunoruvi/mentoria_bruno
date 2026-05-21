@@ -1,19 +1,23 @@
 const mysql = require('mysql2');
 
-const connection = mysql.createConnection({
-  host: 'localhost',
-  user: 'root',
-  database: 'mentoria_db',
-  password: 'root123',
-  timezone: 'Z'
+const pool = mysql.createPool({
+  host: process.env.DB_HOST || 'localhost',
+  port: process.env.DB_PORT || 3306,
+  user: process.env.DB_USER || 'root',
+  password: process.env.DB_PASSWORD || 'root123',
+  database: process.env.DB_NAME || 'mentoria_db',
+  timezone: 'Z',
+  waitForConnections: true,
+  connectionLimit: 10,
 });
 
-connection.connect((err) => {
+pool.getConnection((err, conn) => {
   if (err) {
     console.error('Erro ao conectar ao banco de dados:', err.message);
     return;
   }
   console.log('Conectado ao banco de dados MySQL com sucesso!');
+  conn.release();
 });
 
-module.exports = connection;
+module.exports = pool;
